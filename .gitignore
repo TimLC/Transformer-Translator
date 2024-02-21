@@ -1,0 +1,4 @@
+resources/dataset/*
+resources/tokenizer/*
+__pycache__
+.idea
